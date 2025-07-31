@@ -1,0 +1,6 @@
+# requirements.txt
+
+torch
+numpy
+pandas
+# Add any other dependencies required for the project here
