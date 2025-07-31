@@ -1,0 +1,2 @@
+# enhanced_cshc_250722671v1_designing_for_self_regulation_in_informal_programm
+AI-Generated Project: enhanced_cs.HC_2507.22671v1_Designing_for_Self_Regulation_in_Informal_Programm - Created by WATCHDOG Multi-Agent System
